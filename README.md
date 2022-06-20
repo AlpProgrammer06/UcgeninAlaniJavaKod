@@ -1,2 +1,2 @@
-# VucutkitleEndeksi
+# ÜçgeninAlani
 java kod
